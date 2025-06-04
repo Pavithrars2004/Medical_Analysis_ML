@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "features": "Features",
+    "solutions": "Solutions",
+    "about": "About Us",
+    "contact": "Contact",
+    "signIn": "Sign In"
+  },
+  "hero": {
+    "subtitle": "AI-Powered Healthcare Platform",
+    "title1": "Revolutionary Healthcare",
+    "title2": "At Your Fingertips",
+    "description": "Experience the future of healthcare with AI-powered diagnosis and instant access to qualified medical professionals anytime.",
+    "checkSymptoms": "Check Symptoms",
+    "bookConsultation": "Book Consultation",
+    "stats": {
+      "patients": "Satisfied Patients",
+      "professionals": "Medical Professionals",
+      "accuracy": "Accurate Diagnosis"
+    }
+  },
+  "features": {
+    "title": "Advanced Healthcare Features",
+    "subtitle": "Cutting-Edge Technology",
+    "description": "Experience reimagined healthcare with innovative features designed for your convenience and well-being.",
+    "items": {
+      "aiDiagnosis": {
+        "title": "AI Diagnosis",
+        "description": "Receive instant AI-powered medical suggestions based on your symptoms with high accuracy and personalized treatment recommendations."
+      },
+      "videoConsultations": {
+        "title": "Video Consultations",
+        "description": "Connect with qualified doctors anytime, anywhere through high-quality video calls without leaving the comfort of your home."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Get medical assistance anytime through our advanced chat system with real-time responses from AI and medical professionals."
+      }
+    }
+  },
+  "footer": {
+    "description": "Revolutionizing healthcare with AI-powered solutions for everyone. Making quality healthcare accessible to all.",
+    "newsletter": "Subscribe to our Newsletter",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "contact": "Contact",
+    "rights": "© 2024 MediAI. All rights reserved."
+  }
+}

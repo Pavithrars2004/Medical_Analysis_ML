@@ -1,0 +1,64 @@
+Disease,Symptoms,Medicines,Brand Names,Dosages,Prices (INR)
+Diabetes,"Frequent urination, excessive thirst, fatigue","Metformin, Insulin","Glycomet, Humulin","500mg, 100IU/ml","50, 300"
+Hypertension,"Headache, dizziness, blurred vision","Amlodipine, Lisinopril","Amlovas, Zestril","5mg, 10mg","30, 40"
+Asthma,"Shortness of breath, wheezing, chest tightness","Salbutamol, Montelukast","Asthalin, Montair","2mg, 10mg","20, 100"
+Malaria,"Fever, chills, sweating, nausea","Artemether-Lumefantrine, Chloroquine","Coartem, Resochin","20mg/120mg, 250mg","200, 150"
+Tuberculosis,"Cough, weight loss, night sweats, fever","Rifampin, Isoniazid","Rifadin, Isonex","450mg, 300mg","250, 100"
+Dengue,"High fever, severe headache, joint pain","Paracetamol, IV fluids","Crocin, Normal Saline","500mg, 500ml","15, 50"
+Typhoid,"Prolonged fever, abdominal pain, loss of appetite","Ceftriaxone, Azithromycin","Cefaxone, Azee","1g, 500mg","200, 100"
+COVID-19,"Fever, cough, loss of taste and smell","Paracetamol, Remdesivir","Crocin, Covifor","500mg, 100mg","15, 5000"
+Influenza,"Fever, chills, muscle aches, sore throat","Oseltamivir, Zanamivir","Tamiflu, Relenza","75mg, 5mg","300, 400"
+Migraine,"Severe headache, nausea, sensitivity to light","Sumatriptan, Ibuprofen","Suminat, Brufen","50mg, 400mg","200, 30"
+Arthritis,"Joint pain, stiffness, swelling","Ibuprofen, Naproxen","Brufen, Naprosyn","400mg, 500mg","30, 50"
+Pneumonia,"Cough, chest pain, difficulty breathing","Amoxicillin, Azithromycin","Amoxil, Azee","500mg, 500mg","100, 100"
+Common Cold,"Runny nose, sore throat, sneezing","Paracetamol, Antihistamines","Crocin, Cetirizine","500mg, 10mg","15, 20"
+Anemia,"Fatigue, pale skin, dizziness","Iron supplements, Vitamin B12","Feronia, Cobal","100mg, 1000mcg","50, 100"
+Heart Disease,"Chest pain, shortness of breath, fatigue","Aspirin, Atorvastatin","Ecosprin, Atorva","75mg, 10mg","10, 50"
+Kidney Disease,"Swelling, fatigue, high blood pressure","ACE inhibitors, Diuretics","Enalapril, Lasix","5mg, 40mg","30, 20"
+Hepatitis B,"Jaundice, nausea, dark urine","Tenofovir, Entecavir","Viread, Baraclude","300mg, 0.5mg","500, 600"
+Gastritis,"Stomach pain, bloating, nausea","Omeprazole, Ranitidine","Omez, Zinetac","20mg, 150mg","30, 20"
+Peptic Ulcer,"Burning stomach pain, bloating, nausea","Pantoprazole, Clarithromycin","Pantocid, Claribid","40mg, 500mg","50, 100"
+Epilepsy,"Seizures, confusion, temporary unconsciousness","Carbamazepine, Valproic Acid","Tegretol, Encorate","200mg, 500mg","150, 200"
+Alzheimer's,"Memory loss, confusion, difficulty in thinking","Donepezil, Memantine","Aricept, Mentadem","5mg, 10mg","300, 400"
+Parkinson's,"Tremors, slow movement, balance issues","Levodopa, Carbidopa","Sinemet, Sinemet","100mg, 25mg","500, 500"
+Obesity,"Excess body weight, fatigue, high cholesterol","Orlistat, Metformin","Orlistat, Glycomet","120mg, 500mg","300, 50"
+Hyperthyroidism,"Weight loss, rapid heartbeat, sweating","Methimazole, Propylthiouracil","Thyrozol, Propylthiouracil","5mg, 50mg","50, 100"
+Hypothyroidism,"Fatigue, weight gain, dry skin",Levothyroxine,Thyronorm,50mcg,50
+Psoriasis,"Itchy, red, scaly skin patches","Topical corticosteroids, Methotrexate","Betnovate, Methotrexate","0.1%, 2.5mg","100, 200"
+Eczema,"Itchy, dry, cracked skin","Moisturizers, Hydrocortisone","Vaseline, Cortisol","100ml, 1%","150, 50"
+Depression,"Persistent sadness, lack of energy, sleep issues","Sertraline, Fluoxetine","Zoloft, Prozac","50mg, 20mg","100, 150"
+Anxiety,"Excessive worry, restlessness, rapid heartbeat","Alprazolam, Diazepam","Alprax, Calmpose","0.5mg, 5mg","50, 30"
+Schizophrenia,"Hallucinations, delusions, disorganized speech","Risperidone, Olanzapine","Risperdal, Olanex","2mg, 5mg","100, 150"
+HIV/AIDS,"Fatigue, weight loss, frequent infections","Tenofovir, Efavirenz","Viread, Efavirenz","300mg, 600mg","500, 500"
+Gonorrhea,"Painful urination, discharge, swelling","Ceftriaxone, Azithromycin","Cefaxone, Azee","1g, 500mg","200, 100"
+Syphilis,"Sores, rash, fever",Penicillin G,Penicillin G,1MU,100
+Chlamydia,"Painful urination, discharge, lower abdominal pain","Azithromycin, Doxycycline","Azee, Doxy-1","500mg, 100mg","100, 50"
+Bronchitis,"Cough with mucus, fatigue, chest discomfort","Amoxicillin, Bronchodilators","Amoxil, Ventolin","500mg, 100mcg","100, 200"
+Sinusitis,"Facial pain, nasal congestion, headache","Nasal decongestants, Antibiotics","Otrivin, Augmentin","0.1%, 625mg","50, 200"
+Otitis Media,"Ear pain, hearing loss, fluid drainage","Amoxicillin, Ibuprofen","Amoxil, Brufen","500mg, 400mg","100, 30"
+Conjunctivitis,"Red eyes, itching, discharge","Antibiotic eye drops, Antihistamines","Tobramycin, Cetirizine","0.3%, 10mg","100, 20"
+Glaucoma,"Blurred vision, eye pain, nausea","Timolol, Latanoprost","Timolol, Latanoprost","0.5%, 0.005%","100, 200"
+Cataracts,"Cloudy vision, difficulty in night vision",Surgery,Cataract Surgery,NA,30000
+Lyme Disease,"Fever, headache, fatigue, skin rash","Doxycycline, Amoxicillin","Doxy-1, Amoxil","100mg, 500mg",50
+Hepatitis C,"Fatigue, jaundice, abdominal pain","Sofosbuvir, Ribavirin","Sovaldi, Ribavirin","400mg, 200mg",1000
+Osteoporosis,"Bone pain, fractures, loss of height","Alendronate, Calcium supplements","Fosamax, Caltrate","70mg, 500mg",200
+Fibromyalgia,"Widespread pain, fatigue, sleep disturbances","Pregabalin, Duloxetine","Lyrica, Cymbalta","75mg, 30mg",300
+Multiple Sclerosis,"Numbness, weakness, vision problems","Interferon beta, Glatiramer acetate","Avonex, Copaxone","30mcg, 20mg",5000
+Gout,"Intense joint pain, swelling, redness","Allopurinol, Colchicine","Zyloprim, Colcrys","100mg, 0.6mg",100
+,,,,,
+Chronic Fatigue Syndrome,"Extreme fatigue, muscle pain, memory issues","Antidepressants, Sleep aids","Amitriptyline, Zolpidem","25mg, 5mg",50
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, diarrhea or constipation","Antispasmodics, Laxatives","Dicyclomine, Miralax","10mg, 17g",30
+Lupus,"Joint pain, rash, fatigue","Hydroxychloroquine, Prednisone","Plaquenil, Deltasone","200mg, 5mg",100
+Rheumatoid Arthritis,"Joint pain, swelling, stiffness","Methotrexate, Hydroxychloroquine","Trexall, Plaquenil","2.5mg, 200mg",100
+Shingles,"Painful rash, blisters, itching","Acyclovir, Pain relievers","Zovirax, Ibuprofen","800mg, 400mg",200
+Tetanus,"Muscle stiffness, spasms, lockjaw","Tetanus toxoid, Antibiotics","TT Vaccine, Penicillin","0.5ml, 1MU",50
+Whooping Cough,"Severe cough, runny nose, fever","Antibiotics, Cough suppressants","Azithromycin, Dextromethorphan","500mg, 15mg",100
+Yellow Fever,"Fever, chills, headache, jaundice","Supportive care, Vaccination",YF-Vax,0.5ml,500
+,,,,,
+Leukemia,"Fatigue, weight loss, frequent infections","Chemotherapy, Targeted therapy","Imatinib, Rituximab","400mg, 500mg",5000
+Melanoma,"Unusual moles, skin changes, itching","Surgery, Immunotherapy","Keytruda, Opdivo","100mg, 40mg",10000
+Prostate Cancer,"Urinary issues, pelvic pain, bone pain","Hormone therapy, Chemotherapy","Leuprolide, Docetaxel","22.5mg, 75mg/m²",5000
+Breast Cancer,"Lump in breast, nipple discharge, skin changes","Surgery, Chemotherapy","Tamoxifen, Herceptin","20mg, 440mg",2000
+Ovarian Cancer,"Abdominal bloating, pelvic pain, weight loss","Surgery, Chemotherapy","Carboplatin, Paclitaxel","450mg, 175mg/m²",3000
+Pancreatic Cancer,"Abdominal pain, jaundice, weight loss","Surgery, Chemotherapy","Gemcitabine, Erlotinib","1000mg/m², 100mg",4000
+Colorectal Cancer,"Blood in stool, abdominal pain, weight loss","Surgery, Chemotherapy","Capecitabine, Oxaliplatin","1500mg/m², 130mg/m²",3000
