@@ -1,20 +1,27 @@
-Medical Analysis ML Project
-Project Overview
-This project provides a medical analysis backend service using machine learning. It includes APIs for processing medical data and performing predictions with a pre-trained ML model.
+# 🏥 Medical Analysis ML Project
 
-Features
-ML-based medical data analysis
+---
 
-REST API backend service (FastAPI or Flask)
+## 📖 Project Overview
 
-Easy setup with Python virtual environment
+This project provides a **medical analysis backend service** using machine learning.  
+It includes REST API endpoints to process medical data and perform predictions using a pre-trained ML model.
 
-Requirements managed with requirements.txt
+---
 
-Prerequisites
-Python 3.8 or higher installed on your system
+## ✨ Features
 
-Git installed
+- 💡 ML-based medical data analysis  
+- 🚀 REST API backend service using **FastAPI** (or **Flask**)  
+- 🐍 Easy setup with Python virtual environment  
+- 📦 Dependency management via `requirements.txt`  
 
-(Optional) virtualenv or use Python's built-in venv
+---
 
+## 🛠️ Prerequisites
+
+Make sure you have the following installed:
+
+- Python **3.8** or higher  
+- Git  
+- (Optional) `virtualenv` or Python’s built-in `venv` for virtual environments  
