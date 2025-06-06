@@ -24,4 +24,8 @@ Make sure you have the following installed:
 
 - Python **3.8** or higher  
 - Git  
-- (Optional) `virtualenv` or Python’s built-in `venv` for virtual environments  
+- (Optional) `virtualenv` or Python’s built-in `venv` for virtual environments
+
+
+![Screenshot](images/Screenshot%202025-06-07%20004544.png)
+
