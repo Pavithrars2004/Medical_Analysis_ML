@@ -27,5 +27,6 @@ Make sure you have the following installed:
 - (Optional) `virtualenv` or Python’s built-in `venv` for virtual environments
 
 
-![Screenshot](images/Screenshot%202025-06-07%20004544.png)
+![Screenshot](images/Screenshot_2025-06-07_004544.png)
+
 
