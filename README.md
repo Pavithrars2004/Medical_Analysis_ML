@@ -30,3 +30,9 @@ Make sure you have the following installed:
 ![Screenshot](images/Screenshot_2025-06-07_004544.png)
 
 
+![Screenshot 1](images/Screenshot_2025-06-07_004544.png)
+
+![Screenshot 2](images/Screenshot_2025-06-07_004605.png)
+
+
+
